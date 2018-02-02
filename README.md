@@ -74,6 +74,9 @@ func main() {
 
 	// Blink
 	fmt.Printf("%s%s%s\n\n", ansi.Blink, "testing blink", ansi.BlinkOff)
+	
+	// Bold
+	fmt.Printf("%s%s%s\n\n", ansi.Bold, "testing bold", ansi.BoldOff)
 
 	// Custom combination
 	fmt.Printf("%s%s%s\n", blinkRed, "blink red underline", ansi.Reset)
