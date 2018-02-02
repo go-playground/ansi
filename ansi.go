@@ -41,8 +41,8 @@ const (
 	CyanBackground           = "\x1b[46m"
 	GrayBackground           = "\x1b[47m"
 	ResetBackground          = "\x1b[49m"
-	Bold                     = "\033[1m"
-	BoldOff                  = "\033[0m"
+	Bold                     = "\x1b[1m"
+	BoldOff                  = "\x1b[22m"
 )
 
 // Left out due to not being widely supported:
