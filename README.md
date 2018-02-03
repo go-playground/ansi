@@ -1,5 +1,5 @@
 ## ansi
-![Project status](https://img.shields.io/badge/version-2.0.0-green.svg)
+![Project status](https://img.shields.io/badge/version-2.1.0-green.svg)
 [![GoDoc](https://godoc.org/github.com/go-playground/ansi?status.svg)](https://godoc.org/github.com/go-playground/ansi)
 ![License](https://img.shields.io/dub/l/vibe-d.svg)
 
