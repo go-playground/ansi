@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-playground/ansi"
+	"github.com/go-playground/ansi/v3"
 )
 
 // make your own combinations if you want
