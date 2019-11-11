@@ -1,5 +1,5 @@
 ## ansi
-![Project status](https://img.shields.io/badge/version-2.1.0-green.svg)
+![Project status](https://img.shields.io/badge/version-3.0.0-green.svg)
 [![GoDoc](https://godoc.org/github.com/go-playground/ansi?status.svg)](https://godoc.org/github.com/go-playground/ansi)
 ![License](https://img.shields.io/dub/l/vibe-d.svg)
 
@@ -16,7 +16,7 @@ Installation
 Use go get 
 
 ```shell
-go get -u github.com/go-playground/ansi
+go get -u github.com/go-playground/ansi/v3
 ```
 
 Usage
@@ -27,7 +27,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-playground/ansi"
+	"github.com/go-playground/ansi/v3"
 )
 
 // make your own combinations if you want
